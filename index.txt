@@ -1,0 +1,15 @@
+**Mike's Home Page**
+
+![Mike's picture](images/tashbook14-head.jpg "picture of me")
+
+Greetings, weary traveller! You've reached my homestead on the Web (well, one of them, anyway; my "official" faculty Web page is available from [http://www.cs.stonybrook.edu/~tashbook](http://www.cs.stonybrook.edu/~tashbook)).
+
+*About Your Host*
+
+I teach Computer Science at [Stony Brook University](http://www.stonybrook.edu), in Stony Brook, New York. I mostly teach introductory programming (Python, Processing, Java) and Web design courses, but I also occasionally teach upper-level classes like our course on social, legal, and ethical issues relating to technology.
+
+These days, I spend all of my time teaching, but I'm hoping to get back into research in the near future. My primary research interest is computer science education, although I also try to follow topics like forensic software engineering (dissecting the causes of software failures), networking, biologically-inspired computing, and computer security and privacy.
+
+I don't have a lot of free time these days, but when I do, I try to spend it engaging in one of the activities listed on my page of [interests](interests.html).
+
+You can also view my (abbreviated) [resume](resume.html).
